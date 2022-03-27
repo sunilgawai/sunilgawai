@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML , CSS, JavaScript, React, Node js, MongoDB**
 
-- ⚡ Fun fact: **I love to listen to watch Anime**
+- ⚡ Fun fact: **I love to watch Anime**
 ### Other Knowledge:
 
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
