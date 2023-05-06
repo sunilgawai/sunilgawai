@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hi :)
+
+#### I'm a skilled web developer with experience in React.js, TypeScript, Node.js, MongoDB, and REST APIs. I can create complex user interfaces, write scalable code, and design robust APIs. Let's work together to achieve your project goals. Contact me for freelance gig, also open for pair programming.
+
+🔭 I’m currently working on React JS and React Native.
+
+🌱 I’m currently learning React Native.
+
+👯 I’m looking to collaborate on Data Structures and algorithms visualizer project. ('to showcase skills.').
+
+🤔 I’m looking for help with freelancing.
+
+💬 Ask me about ...Anime, Web Series and Coding.
+
+📫 How to reach me: sunilgawai7397@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Web Developers are not Software Engineers. !('take is as a joke')
