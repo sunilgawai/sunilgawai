@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a skilled web developer with experience in React.js, TypeScript, Node.js, MongoDB, and REST APIs. I can create complex user interfaces, write scalable code, and design robust APIs. Let's work together to achieve your project goals. Contact me for freelance gig, also open for pair programming.
+#### I'm a skilled web developer with experience in React.js, TypeScript, Node.js, MongoDB, and REST APIs. I can create complex user interfaces, write scalable code, and design robust APIs.
 
 🔭 I’m currently working on React JS and React Native.
 
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: Web Developers are not Software Engineers. !('take is as a joke')
+
+##### Contact me for freelance gig. Let's work together to achieve your project goals. Also open for pair programming with other devs. 
