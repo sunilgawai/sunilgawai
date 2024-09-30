@@ -7,7 +7,7 @@ Full Stack Developer and Freelancer.
 I'm a full stack web developer with experience in React.js, TypeScript, Node.js, MongoDB, and REST APIs. I like to create complex user interfaces, write scalable code, and design robust APIs.
 
 * 🌍  I'm based in Pimpri Chinchwad, Pune, India
-* 🖥️  See my portfolio at [www.sunilgawai.dev](http://www.sunilgawai.com)
+* 🖥️  See my portfolio at [www.sunilgawai.dev]([[http://www.sunilgawai.com](https://developer-portfolio-i6zl.vercel.app)])
 * ✉️  You can contact me at [sunilgawai7397@gmail.com](mailto:sunilgawai7397@gmail.com)
 * 🧠  I'm learning Vue js and React Native.
 * 🤝  I'm open to collaborating on Open Source and Freelance Projects.
