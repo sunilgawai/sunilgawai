@@ -1,31 +1,128 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sunil Gawai
-===================================================================================================================================
+<div align="center">
 
-Full Stack Developer and Freelancer.
-------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=200&section=header&text=Sunil%20Gawai&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20Agents%20%E2%80%A2%20RAG&descAlignY=60&descSize=18" width="100%" />
 
-I'm a full stack web developer with experience in React Native, React.js, TypeScript, Node.js, MongoDB, and REST APIs. I like to create complex user interfaces, write scalable code, and design robust APIs.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=640&lines=Building+LLM-powered+products+that+ship+to+production;Agents+%E2%80%A2+RAG+pipelines+%E2%80%A2+Evals+%E2%80%A2+Tool+use;From+prompt+to+API+to+UI+%E2%80%94+end+to+end" alt="Typing SVG" /></a>
 
-* 🌍  I'm based in Pimpri Chinchwad, Pune, India
-* 🖥️  See my portfolio at [www.sunilgawai.dev]([[http://www.sunilgawai.com](https://developer-portfolio-i6zl.vercel.app)])
-* ✉️  You can contact me at [sunilgawai7397@gmail.com](mailto:sunilgawai7397@gmail.com)
-
-
-<a href="https://www.github.com/sunilgawai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sunilgawai?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
-### Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p>
+<a href="mailto:sunilgawaiofficial@gmail.com"><img src="https://img.shields.io/badge/Email-sunilgawaiofficial%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://www.linkedin.com/in/sunil-gawai-350948233"><img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://developer-portfolio-i6zl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://www.github.com/sunilgawai"><img src="https://img.shields.io/github/followers/sunilgawai?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 </p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/sunilgawai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://hashnode.com/@TheEngineerBro.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sunilgawai7397" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sunil-gawai-350948233" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/sunilgawai7397" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### `$ whoami`
 
-<a href="http://www.github.com/sunilgawai"><img src="https://github-readme-stats.vercel.app/api?username=sunilgawai&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="sunilgawai's GitHub stats" /></a>
+```python
+class SunilGawai(AIEngineer):
+    """I turn large language models into reliable, production-grade software."""
 
-<a href="http://www.github.com/sunilgawai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilgawai&stroke=facc15&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+    location   = "Pune, India 🇮🇳"
+    role       = "AI Engineer"
+    focus      = ["LLM applications", "Autonomous agents", "RAG systems", "AI-native UX"]
+    foundation = "Full-stack engineering — I ship the model, the API, and the interface"
+
+    def approach(self):
+        return [
+            "Evals first: if it isn't measured, it isn't done",
+            "Ground every answer: retrieval, citations, guardrails",
+            "Design for cost, latency, and failure — not just the demo",
+        ]
+
+    def contact(self):
+        return "sunilgawaiofficial@gmail.com"
+```
+
+### 🧠 What I build
+
+| Area | What that means in practice |
+|---|---|
+| 🤖 **Agentic systems** | Tool-calling agents, multi-step planning, function calling, and MCP integrations that act on real data |
+| 📚 **RAG pipelines** | Chunking, embeddings, vector search, re-ranking, and grounded answers with citations |
+| 🧪 **LLM evaluation** | Test sets, regression evals, and observability so model changes don't silently break things |
+| ⚡ **Production AI APIs** | Streaming endpoints, caching, rate limiting, and cost/latency tuning with FastAPI and Node.js |
+| 🎨 **AI-native interfaces** | Chat, copilots, and generative UI in React, Next.js, and React Native |
+
+### 🛠️ Tech stack
+
+**AI / ML**
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-0f172a?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-0f172a?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-0f172a?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Pinecone-0f172a?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-0f172a?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-0f172a?style=flat-square&logo=ollama&logoColor=white" />
+</p>
+
+**Backend & data**
+
+<p>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+**Frontend & mobile**
+
+<p>
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-0f172a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue-0f172a?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Nuxt-0f172a?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/Redux-0f172a?style=flat-square&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/MUI-0f172a?style=flat-square&logo=mui&logoColor=007FFF" />
+</p>
+
+### 🔁 How I ship an AI feature
+
+```mermaid
+flowchart LR
+    A[Problem] --> B[Prototype<br/>prompt + tools]
+    B --> C[Eval set<br/>& baselines]
+    C --> D[RAG / agents<br/>/ fine-tune]
+    D --> E[Guardrails<br/>& observability]
+    E --> F[Production API<br/>+ UI]
+    F -->|feedback| C
+```
+
+### 📊 GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunilgawai&show_icons=true&count_private=true&title_color=ffffff&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilgawai&layout=compact&title_color=ffffff&text_color=facc15&bg_color=0f172a&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilgawai&stroke=facc15&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=ffffff&dates=94a3b8&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+### 🤝 Let's build something intelligent
+
+I'm open to **AI Engineer** roles and collaborations on LLM products, agents, and applied AI.
+
+<p>
+<a href="mailto:sunilgawaiofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sunil-gawai-350948233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.x.com/sunilgawai7397"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://hashnode.com/@TheEngineerBro.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://developer-portfolio-i6zl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f172a&height=110&section=footer" width="100%" />
