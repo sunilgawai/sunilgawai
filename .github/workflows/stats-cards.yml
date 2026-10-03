@@ -1,0 +1,43 @@
+name: Refresh GitHub stats cards
+
+# The public stats endpoints often take longer than GitHub's image proxy allows,
+# which shows up as a broken image. This job saves the cards into the repo so the
+# README serves them as static files.
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download cards
+        run: |
+          set -u
+          fetch() {
+            # Only replace the saved card when a valid SVG comes back.
+            if curl -fsSL --retry 4 --retry-delay 5 --max-time 60 -o "$1.tmp" "$2" && grep -q "<svg" "$1.tmp"; then
+              mv "$1.tmp" "$1"
+            else
+              echo "::warning::Could not refresh $1, keeping the previous version"
+              rm -f "$1.tmp"
+            fi
+          }
+          THEME="title_color=ffffff&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true"
+          fetch assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=sunilgawai&show_icons=true&count_private=true&$THEME"
+          fetch assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=sunilgawai&layout=compact&$THEME"
+          fetch assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=sunilgawai&stroke=facc15&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=ffffff&dates=94a3b8&hide_border=true"
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet || (git commit -m "chore: refresh GitHub stats cards" && git push)
