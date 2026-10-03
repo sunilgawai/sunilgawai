@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=200&section=header&text=Sunil%20Gawai&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=200&section=header&text=Sunil%20Gawai&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20LLMs%20in%20Production&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=680&lines=Agents+are+distributed+systems.+I+build+those.;MCP+servers+%E2%80%A2+LLM+pipelines+%E2%80%A2+Async+queues;Multi-tenant+platforms+shipped+0+%E2%86%92+1+in+production" alt="Typing SVG" /></a>
 
@@ -18,9 +18,10 @@
 ### `$ whoami`
 
 ```python
-class SunilGawai(AIAgentEngineer):
+class SunilGawai(AppliedAIEngineer):
     """Backend engineer building the production layer that AI agents run on."""
 
+    title      = "Applied AI Engineer · Agentic Systems"
     location   = "Pune, India 🇮🇳"
     experience = "2+ years in production · Full Stack Engineer @ Swift Business Solutions · ex-Wipro"
     stack      = ["TypeScript", "Node.js", "Python", "PostgreSQL", "Redis", "RabbitMQ", "Docker"]
@@ -189,7 +190,7 @@ flowchart LR
 
 ### 🤝 Let's build something intelligent
 
-I'm open to **AI Engineer** and **AI Agent Engineer** roles, especially teams taking LLM features from demo to production.
+I'm open to **Applied AI Engineer** roles, especially on teams building agentic systems and taking LLM features from demo to production.
 
 <p>
 <a href="mailto:sunilgawaiofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
