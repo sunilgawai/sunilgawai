@@ -7,7 +7,7 @@
 <p>
 <a href="mailto:sunilgawaiofficial@gmail.com"><img src="https://img.shields.io/badge/Email-sunilgawaiofficial%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.linkedin.com/in/dvlpr_sunil"><img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
-<a href="https://developer-portfolio-i6zl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://sunilgawai.cv"><img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.github.com/sunilgawai"><img src="https://img.shields.io/github/followers/sunilgawai?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 </p>
 
