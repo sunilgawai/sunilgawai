@@ -7,7 +7,7 @@
 <p>
 <a href="mailto:sunilgawaiofficial@gmail.com"><img src="https://img.shields.io/badge/Email-sunilgawaiofficial%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.linkedin.com/in/dvlpr_sunil"><img src="https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
-<a href="https://sunilgawai.cv"><img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://sunilgawai.cv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.github.com/sunilgawai"><img src="https://img.shields.io/github/followers/sunilgawai?logo=github&style=for-the-badge&color=ec4899&labelColor=0f172a" /></a>
 </p>
 
@@ -197,7 +197,7 @@ I'm open to **Applied AI Engineer** roles, especially on teams building agentic 
 <a href="https://www.linkedin.com/in/dvlpr_sunil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/dvlpr_sunil"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/dvlpr_sunil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://sunilgawai.cv"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sunilgawai.cv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f172a&height=110&section=footer" width="100%" />
